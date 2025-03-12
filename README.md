@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#chinese)
 
-`<a name="english"></a>`
+<a name="english"></a>
 
 ## 🌟 Introduction
 
@@ -62,7 +62,7 @@ npm run preview
 
 ---
 
-`<a name="chinese"></a>`
+<a name="chinese"></a>
 
 ## 🌟 项目介绍
 
